@@ -1,2 +1,1 @@
-This is my first python mini project its a summary statistic calcualtor.
-It calcualtes the mean, median, mode, range, and standard deviation.
+This is my python mini projects that are statistics related. So far the mini projects include a stat calcualtor that calculates the mean, median, mode, range, and SD of your inputed numbers. Also an Expense Trcker that allows you ton input an expense by category, view your total amount of expesnes and average amount spent on expenses. Also it allows you to view expense by category as well.
